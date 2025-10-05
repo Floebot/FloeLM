@@ -1,12 +1,21 @@
 # FloeLM
 
 <div align="center">
-    <img src="https://img.shields.io/github/license/Floebot/FloeLM?style=flat-square" alt="GitHub License">
-    <img src="https://img.shields.io/github/stars/Floebot/FloeLM?style=flat-square" alt="GitHub Repo stars">
-    <img src="https://img.shields.io/github/forks/Floebot/FloeLM?style=flat-square" alt="GitHub forks">
-    <img src="https://img.shields.io/github/contributors/Floebot/FloeLM?style=flat-square" alt="GitHub contributors">
-    <img src="https://img.shields.io/github/issues/Floebot/FloeLM?style=flat-square" alt="GitHub Issues or Pull Requests">
-    <img src="https://img.shields.io/github/discussions/Floebot/FloeLM?style=flat-square" alt="GitHub Discussions">
+    <a href="https://github.com/Floebot/FloeLM/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/Floebot/FloeLM?style=flat-square" alt="GitHub License">
+    </a>
+    <a href="https://github.com/Floebot/FloeLM/stargazers">
+        <img src="https://img.shields.io/github/stars/Floebot/FloeLM?style=flat-square" alt="GitHub Repo stars">
+    </a>
+    <a href="https://github.com/Floebot/FloeLM/network/members">
+        <img src="https://img.shields.io/github/forks/Floebot/FloeLM?style=flat-square" alt="GitHub forks">
+    </a>
+    <a href="https://github.com/Floebot/FloeLM/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/Floebot/FloeLM?style=flat-square" alt="GitHub contributors">
+    </a>
+    <a href="https://github.com/Floebot/FloeLM/issues">
+        <img src="https://img.shields.io/github/issues/Floebot/FloeLM?style=flat-square" alt="GitHub Issues or Pull Requests">
+    </a>
 </div>
 
 > [!CAUTION]
