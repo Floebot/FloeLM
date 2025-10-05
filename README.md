@@ -1,7 +1,11 @@
 # FloeLM
 
-**This is an early preview version of Mega Bot.**
+> [!CAUTION]
+> **This is an early preview version of Mega Bot. Not recommended for production use.**
+
 Example of a lightweight and customizable intelligent assistant front-end project.
+
+[Demo on GitHub.io](floebot.github.io)
 
 **Make the following modifications:**
 - The toolbar has complete functionality.  
