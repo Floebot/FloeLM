@@ -5,7 +5,7 @@
 
 Example of a lightweight and customizable intelligent assistant front-end project.
 
-[Demo on GitHub.io](https://floebot.github.io/)
+[Demo on GitHub.io](https://floebot.github.io/FloeLM)
 
 **Make the following modifications:**
 - The toolbar has complete functionality.  
