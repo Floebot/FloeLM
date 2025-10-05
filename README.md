@@ -37,3 +37,5 @@ Example of a lightweight and customizable intelligent assistant front-end projec
 - Display detailed information.  
 - Multi model switching.  
 - Image recognition and visual model support.
+
+We apologize that some features in the English version are still displayed in Chinese. If you'd like, you can submit a translation or wait for us to address it. Thank you for your understanding.
