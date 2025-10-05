@@ -5,6 +5,8 @@
 
 Example of a lightweight and customizable intelligent assistant front-end project.
 
+![FloeLM Screenshot](./assets/screenshot.jpeg)
+
 [Demo on GitHub.io](https://floebot.github.io/FloeLM)
 
 **Make the following modifications:**
