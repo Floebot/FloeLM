@@ -1,5 +1,12 @@
 # FloeLM
 
+![GitHub License](https://img.shields.io/github/license/Floebot/FloeLM?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/Floebot/FloeLM?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Floebot/FloeLM?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/Floebot/FloeLM?style=for-the-badge)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Floebot/FloeLM?style=for-the-badge)
+![GitHub Discussions](https://img.shields.io/github/discussions/Floebot/FloeLM?style=for-the-badge)
+
 > [!CAUTION]
 > **This is an early preview version of FloeLM. Not recommended for production use.**
 
