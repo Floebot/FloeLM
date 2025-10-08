@@ -1,4 +1,4 @@
-# FloeLM - 轻量可定制的跨平台 Web UI 客户端
+<h2 style="text-align:center">FloeLM - 轻量可定制的跨平台 Web UI 客户端</h2>
 
 <div align="center">
     <a href="https://github.com/Floebot/FloeLM/blob/main/LICENSE">
