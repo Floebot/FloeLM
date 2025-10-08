@@ -3,23 +3,19 @@
 <div align="center">
     <a href="https://github.com/Floebot/FloeLM/blob/main/LICENSE">
         <img src="https://img.shields.io/github/license/Floebot/FloeLM?style=flat-square" alt="GitHub License">
-    </a>
-    <a href="https://github.com/Floebot/FloeLM/stargazers">
+    </a><a href="https://github.com/Floebot/FloeLM/stargazers">
         <img src="https://img.shields.io/github/stars/Floebot/FloeLM?style=flat-square" alt="GitHub Repo stars">
-    </a>
-    <a href="https://github.com/Floebot/FloeLM/network/members">
+    </a><a href="https://github.com/Floebot/FloeLM/network/members">
         <img src="https://img.shields.io/github/forks/Floebot/FloeLM?style=flat-square" alt="GitHub forks">
-    </a>
-    <a href="https://github.com/Floebot/FloeLM/graphs/contributors">
+    </a><a href="https://github.com/Floebot/FloeLM/graphs/contributors">
         <img src="https://img.shields.io/github/contributors/Floebot/FloeLM?style=flat-square" alt="GitHub contributors">
-    </a>
-    <a href="https://github.com/Floebot/FloeLM/issues">
+    </a><a href="https://github.com/Floebot/FloeLM/issues">
         <img src="https://img.shields.io/github/issues/Floebot/FloeLM?style=flat-square" alt="GitHub Issues or Pull Requests">
     </a>
 </div>
 
 > [!CAUTION]
-> 本项目目前处于预览阶段（early preview），不建议直接用于生产环境，请在受控环境中测试并根据需要调整配置。
+> 本项目目前处于预览阶段，不建议直接用于生产环境，请在受控环境中测试并根据需要调整配置。
 
 FloeLM 是一个以“前端为主”的跨平台 AI web-ui 前端项目，目标是为各种本地或远端语言模型（LLM）提供一个轻量、可定制的交互界面。它专注于界面与用户体验——拥有可配置的主题、对话管理、模型端点配置以及常用的会话导入导出功能，便于快速搭建与试验不同模型后端的对话体验。
 
@@ -37,7 +33,7 @@ FloeLM 是一个以“前端为主”的跨平台 AI web-ui 前端项目，目�
 - 会话与设置的导入/导出，便于备份与迁移。
 - 设计上便于扩展（例如后续接入图片识别、视觉模型或多模型切换）。
 
-当前已实现 / 可用的功能（基于仓库现状）
+当前已实现 / 可用的功能
 - 左侧会话列表与搜索、置顶、重命名、删除等常见操作。
 - 设置面板（Appearance、Preferences、Customization、Data Management 等）。
 - 在 Data Management 中配置 API Endpoint（例如 Ollama、本地或远端 LLM HTTP 接口）与模型选择。
