@@ -1,6 +1,6 @@
 # FloeLM - Lightweight, Customizable Cross-Platform Web UI Client
 
-[简体中文](./README.md) · English
+[简体中文](/README.md) · English
 
 [![GitHub License](https://img.shields.io/github/license/Floebot/FloeLM?style=flat-square)](https://github.com/Floebot/FloeLM/blob/main/LICENSE)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Floebot/FloeLM?style=flat-square)](https://github.com/Floebot/FloeLM/stargazers)
