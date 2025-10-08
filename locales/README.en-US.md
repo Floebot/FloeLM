@@ -15,7 +15,7 @@
 
 FloeLM is a frontend-focused, cross-platform project designed to provide a lightweight, customizable interface for interacting with various local or remote language models (LLMs). It prioritizes interface and user experience—featuring configurable themes, conversation management, model endpoint configuration, and common session import/export capabilities—enabling rapid prototyping and experimentation with different model backends for conversational experiences.
 
-![FloeLM Screenshot](./assets/screenshot.jpeg)
+![FloeLM Screenshot](/assets/screenshot.jpeg)
 
 [Demo on GitHub.io](https://floebot.github.io/FloeLM)
 
