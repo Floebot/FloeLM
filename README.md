@@ -60,5 +60,5 @@ FloeLM 是静态前端项目，使用静态服务器（如 serve、http-server�
 [![Star History Chart](https://api.star-history.com/svg?repos=Floebot/FloeLM&type=Date)](https://www.star-history.com/#Floebot/FloeLM&Date)
 
 ## 许可与声明
-- 许可证：本软件采用MPL-2.0许可证授权，详情请参阅 LICENSE 文件（位于代码库根目录下）。
+- 许可证：本项目采用MPL-2.0许可证授权，详情请参阅 LICENSE 文件（位于代码库根目录下）。
 - 免责声明：建议在合规与安全的前提下使用与部署，对于用户对我们服务的任何非法使用，我们概不负责。
