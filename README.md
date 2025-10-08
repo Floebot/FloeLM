@@ -3,19 +3,19 @@
 ## FloeLM - 轻量可定制的跨平台 Web UI 客户端
 
 简体中文 · [English](./locales/README.en-US.md)
-    
+
 [![GitHub License](https://img.shields.io/github/license/Floebot/FloeLM?style=flat-square)](https://github.com/Floebot/FloeLM/blob/main/LICENSE)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Floebot/FloeLM?style=flat-square)](https://github.com/Floebot/FloeLM/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Floebot/FloeLM?style=flat-square)](https://github.com/Floebot/FloeLM/network/members)
 [![GitHub contributors](https://img.shields.io/github/contributors/Floebot/FloeLM?style=flat-square)](https://github.com/Floebot/FloeLM/graphs/contributors)
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Floebot/FloeLM?style=flat-square)](https://github.com/Floebot/FloeLM/issues)
-    
+
 </div>
 
 > [!CAUTION]
 > 本项目目前处于预览阶段，不建议直接用于生产环境，请在受控环境中测试并根据需要调整配置。
 
-FloeLM 是一个以“前端为主”的跨平台 AI web-ui 前端项目，目标是为各种本地或远端语言模型（LLM）提供一个轻量、可定制的交互界面。它专注于界面与用户体验——拥有可配置的主题、对话管理、模型端点配置以及常用的会话导入导出功能，便于快速搭建与试验不同模型后端的对话体验。
+FloeLM 是一个以“前端为主”的跨平台项目，目标是为各种本地或远端语言模型（LLM）提供一个轻量、可定制的交互界面。它专注于界面与用户体验——拥有可配置的主题、对话管理、模型端点配置以及常用的会话导入导出功能，便于快速搭建与试验不同模型后端的对话体验。
 
 ![FloeLM Screenshot](./assets/screenshot.jpeg)
 
