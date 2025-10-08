@@ -58,9 +58,9 @@ FloeLM 是一个以“前端为主”的跨平台 AI web-ui 前端项目，目�
 - 贡献流程：Fork -> 新分支 -> 提交 -> 发起 PR。请在 PR 描述中说明变更目的与影响范围。
 
 ### 许可与声明
-- 授权许可：详见 LICENSE 文件（仓库根目录）。
+- 许可证：本软件采用MPL-2.0许可证授权，详情请参阅 LICENSE 文件（位于代码库根目录下）。
 - 免责声明：本仓库为前端界面实现，具体能力与风险取决于所接入的模型后端与其许可、隐私与安全策略。建议在合规与安全的前提下使用与部署，对于用户对我们服务的任何非法使用，我们概不负责。
 
----
+## Star History
 
-感谢所有贡献者与使用者的反馈与测试。如果你在使用过程中遇到问题或希望加入特性，欢迎创建 issue 或提交 PR。
+[![Star History Chart](https://api.star-history.com/svg?repos=Floebot/FloeLM&type=Date)](https://www.star-history.com/#Floebot/FloeLM&Date)
