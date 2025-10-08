@@ -2,7 +2,7 @@
 
 # FloeLM - 轻量可定制的跨平台 Web UI 客户端
 
-简体中文 · [English](./locales/README.en-US.md)
+简体中文 · [English](/locales/README.en-US.md)
 
 [![GitHub License](https://img.shields.io/github/license/Floebot/FloeLM?style=flat-square)](https://github.com/Floebot/FloeLM/blob/main/LICENSE)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Floebot/FloeLM?style=flat-square)](https://github.com/Floebot/FloeLM/stargazers)
