@@ -19,7 +19,7 @@ FloeLM 是一个以前端为主的跨平台项目，目标是为各种本地或�
 
 ![FloeLM Screenshot](/assets/screenshot.jpeg)
 
-[Demo on GitHub.io](https://floebot.github.io/FloeLM)
+[Demo on GitHub.io](https://floebot.github.io/FloeLM) [Demo on Pages.dev](https://floelm.pages.dev) 
 
 ## 主要特点
 - 纯前端实现的 UI（静态托管即可运行前端界面）。
