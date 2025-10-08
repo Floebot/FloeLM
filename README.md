@@ -17,7 +17,7 @@
 
 FloeLM 是一个以前端为主的跨平台项目，目标是为各种本地或远端语言模型（LLM）提供一个轻量、可定制的交互界面。它专注于界面与用户体验——拥有可配置的主题、对话管理、模型端点配置以及常用的会话导入导出功能，便于快速搭建与试验不同模型后端的对话体验。
 
-![FloeLM Screenshot](./assets/screenshot.jpeg)
+![FloeLM Screenshot](/assets/screenshot.jpeg)
 
 [Demo on GitHub.io](https://floebot.github.io/FloeLM)
 
