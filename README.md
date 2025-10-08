@@ -2,6 +2,7 @@
 
 ## FloeLM - 轻量可定制的跨平台 Web UI 客户端
 
+
 简体中文 · [English](./locales/README.en-US.md)
 
 [![GitHub License](https://img.shields.io/github/license/Floebot/FloeLM?style=flat-square)](https://github.com/Floebot/FloeLM/blob/main/LICENSE)
@@ -15,7 +16,7 @@
 > [!CAUTION]
 > 本项目目前处于预览阶段，不建议直接用于生产环境，请在受控环境中测试并根据需要调整配置。
 
-FloeLM 是一个以“前端为主”的跨平台项目，目标是为各种本地或远端语言模型（LLM）提供一个轻量、可定制的交互界面。它专注于界面与用户体验——拥有可配置的主题、对话管理、模型端点配置以及常用的会话导入导出功能，便于快速搭建与试验不同模型后端的对话体验。
+FloeLM 是一个以前端为主的跨平台项目，目标是为各种本地或远端语言模型（LLM）提供一个轻量、可定制的交互界面。它专注于界面与用户体验——拥有可配置的主题、对话管理、模型端点配置以及常用的会话导入导出功能，便于快速搭建与试验不同模型后端的对话体验。
 
 ![FloeLM Screenshot](./assets/screenshot.jpeg)
 
@@ -38,14 +39,14 @@ FloeLM 是一个以“前端为主”的跨平台项目，目标是为各种本�
 - 会话导入/导出以及应用设置的导入/导出功能。
 
 ### 使用指南
-- 获取代码
-   - 克隆仓库或下载源码文件。
-- 启动前端
-   - FloeLM 是静态前端项目，使用静态服务器（如 serve、http-server、nginx 等）托管即可.
-   - 本地快速测试：`npx serve` 或 `python -m http.server`（在项目根目录运行）。
-- 配置模型端点
-   - 打开应用后进入 Settings -> Data Management，设置 API endpoint（例如本地的 LLM 服务地址）以及需要的 API key（如适用）。
-   - 说明：不同后端实现的 API 协议可能不同，请根据所用 LLM 服务调整请求格式与路径。
+**获取代码**
+- 克隆仓库或下载源码文件。
+**启动前端**
+- FloeLM 是静态前端项目，使用静态服务器（如 serve、http-server、nginx 等）托管即可.
+- 本地快速测试：`npx serve` 或 `python -m http.server`（在项目根目录运行）。
+**配置模型端点**
+- 打开应用后进入 Settings -> Data Management，设置 API endpoint（例如本地的 LLM 服务地址）以及需要的 API key（如适用）。
+- 说明：不同后端实现的 API 协议可能不同，请根据所用 LLM 服务调整请求格式与路径。
 
 ### 配置要点与兼容性提示
 - 前端可连接任意实现了兼容对话 API 的后端服务，但需要开发者确认后端的请求与返回格式是否与 FloeLM 前端预期一致；如不一致，可能需要在前端或后端桥接层进行适配。
