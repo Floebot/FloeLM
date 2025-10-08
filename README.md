@@ -10,6 +10,8 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/Floebot/FloeLM?style=flat-square)](https://github.com/Floebot/FloeLM/graphs/contributors)
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Floebot/FloeLM?style=flat-square)](https://github.com/Floebot/FloeLM/issues)
 
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Floebot/FloeLM)
+
 </div>
 
 > [!CAUTION]
