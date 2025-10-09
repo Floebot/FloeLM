@@ -21,9 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const welcomeSubtitleEl = document.getElementById("welcome-subtitle");
   const welcomeSuggestionsEl = document.getElementById("welcome-suggestions");
   const disclaimerEl = document.getElementById("disclaimer-text-element");
-  !--
-  const attachFileBtn = document.getElementById('attach-file-btn');
-  -- >
+  //const attachFileBtn = document.getElementById('attach-file-btn');
   const fileInput = document.getElementById('file-input');
   const filePreviewContainer = document.getElementById('file-preview-container');
   const scanModelsBtn = document.getElementById('scan-ollama-models-btn');
@@ -100,9 +98,8 @@ document.addEventListener("DOMContentLoaded", () => {
     });
     saveSettingsBtn.addEventListener("click", saveAndApplySettings);
     stopGenerationBtn.addEventListener("click", stopGeneration);
-    sessionSearchInput.addEventListener("input", renderSessionList); <
-    !--attachFileBtn.addEventListener('click', () => fileInput.click());
-    -- >
+    sessionSearchInput.addEventListener("input", renderSessionList); 
+    // attachFileBtn.addEventListener('click', () => fileInput.click());
     fileInput.addEventListener('change', handleFileSelect);
 
     addEventListenersForDragDrop();
