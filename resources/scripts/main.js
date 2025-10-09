@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const welcomeTitleEl = document.getElementById("welcome-title");
   const welcomeSubtitleEl = document.getElementById("welcome-subtitle");
   const welcomeSuggestionsEl = document.getElementById("welcome-suggestions");
-  const disclaimerEl = document.getElementById("disclaimer-text-element"); <
+  const disclaimerEl = document.getElementById("disclaimer-text-element");
   !--
   const attachFileBtn = document.getElementById('attach-file-btn');
   -- >
