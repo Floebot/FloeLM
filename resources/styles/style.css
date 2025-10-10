@@ -94,9 +94,11 @@ html {
     height: 100%;
     width: 100%;
     overflow: hidden;
+    /*
     background-image: url(https://source.unsplash.com/random/1920x1080?abstract,dark);
     background-size: cover;
     background-position: center
+    */
 }
 
 body {
